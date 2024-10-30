@@ -1,5 +1,5 @@
 # Calculator
    Simple calculator app created using jetpack compose in just 20 minutes!!
 
-# Output
-![Alt text](/screenshots/Screenshot_Calculator.png "Calculator")
+## App Screenshot
+<img src="/screenshots/Screenshot_Calculator.png" width="412" height="892"/>
